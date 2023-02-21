@@ -1,3 +1,5 @@
-# postgresQL-_pipeline
+## postgresQL-_pipeline
 
-Code for loading the Nifty_data files from kaggle into PostgreSQL using python for querying and analysing
+# Python Code to loading the Nifty_data files into PostgreSQL for querying and analysing
+
+Two files namely HDFC_BANK and Stock_metadata from Kaggle datasets
